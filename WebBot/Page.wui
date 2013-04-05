@@ -1,0 +1,9 @@
+flow
+ vertical
+  center#pageHeader
+   > headerlabel text="Post Board" level=1
+  > horizontal
+  box#body style=border:0px;margin:0px;padding:0px;
+   > box#pageContents
+  center#footer
+   > copyright owner="Simple Innovation LLC"

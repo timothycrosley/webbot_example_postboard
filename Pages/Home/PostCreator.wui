@@ -1,0 +1,9 @@
+vertical
+ fields
+  layout-field text=Email:
+   > textbox#email
+   > validators-email
+  layout-field text=Text:
+   > textbox#text
+   > validators-notempty
+ > button#post.MainAction text=Post!

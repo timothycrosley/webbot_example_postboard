@@ -1,0 +1,11 @@
+indexes:
+
+- kind: Post
+  properties:
+  - name: __searchable_text_index
+  - name: created
+
+- kind: Post
+  properties:
+  - name: __searchable_text_index
+  - name: last_updated

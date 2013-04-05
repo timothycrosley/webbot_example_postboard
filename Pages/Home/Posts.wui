@@ -1,0 +1,3 @@
+vertical
+ > table#posts
+ > itempager#pager
